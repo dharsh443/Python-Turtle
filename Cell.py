@@ -2,7 +2,7 @@ import turtle
 t = turtle.Turtle()  
 s = turtle.Screen()  
 s.bgcolor("black")  
-t.pencolor("red")  
+t.pencolor("yellow")  
   
 a = 0  
 b = 0  
