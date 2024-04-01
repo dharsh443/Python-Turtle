@@ -4,7 +4,7 @@ def draw():
     colors = ["red", "orange", "yellow", "green", "blue", "purple"]
     pen = turtle.Turtle()
     pen.speed(10)
-    turtle.bgcolor("black")  
+    turtle.bgcolor("white")  
     pen.pensize(2)
 
     initial_size = 100
