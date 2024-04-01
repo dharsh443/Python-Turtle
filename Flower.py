@@ -2,7 +2,7 @@ import turtle
 t = turtle.Turtle()
 s = turtle.Screen()
 s.bgcolor("black")
-t.pencolor("red")
+t.pencolor("pink")
 t.speed(1000)
 for i in range(150):
     t.circle(190-i,90)
